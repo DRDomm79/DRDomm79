@@ -32,7 +32,7 @@ Twitter/X: @PhoRotha (Let’s debate tech!)
 
 LinkedIn: Pho Rotha (Professional vibes)
 
-Email: phorotha@example.com (Old-school but reliable)
+Email: poungrotha01555@gmail.com (Old-school but reliable)
 
 😄 Fun Fact
 I once automated my morning coffee routine with a Raspberry Pi – because laziness drives innovation!
