@@ -1,39 +1,43 @@
-👋 Hello, I'm Pho Rotha!
-🚀 About Me
-I'm a passionate developer with a love for turning ideas into reality through code. When I'm not debugging, you'll find me exploring new technologies, contributing to open-source projects, or sipping coffee while brainstorming my next big project.
+<h1 align="center">Hi, I'm Pho Rotha 👋</h1>
+<p align="center">
+  <b>Data Scientist & Actuarial Analyst @ DACTUARIES Co., Ltd.</b><br>
+  Engineering in Applied Mathematics & Statistics (Data Science) · Institute of Technology of Cambodia
+</p>
 
-🌟 Interests
-Coding (obviously!)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/LightGBM-02569B">
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black">
+</p>
 
-Open Source – because sharing is caring
+---
 
-AI & Machine Learning – teaching machines to think
+### 👨‍💻 About me
+- 🧠 I build **end-to-end machine-learning systems** — from data and modeling to deployment.
+- 🏥 At DACTUARIES, I designed and shipped **DAC HealthPrice**, a deployed AI insurance-pricing & underwriting platform (started as an intern, hired full-time in 3 months).
+- 📊 I combine **actuarial science** (GLMs, reserving) with **modern ML** (gradient boosting, SHAP).
+- 🌏 Focused on real-world impact for emerging markets (Cambodia / Southeast Asia).
 
-Cybersecurity – hacking (the ethical kind)
+### 🚀 Featured Project — DAC HealthPrice
+> An AI-driven life & health insurance pricing platform combining actuarial GLM with ML.
+>
+> **▶ [Try the live demo](https://dac-healthprice-public-taupe.vercel.app/)** · **[View the repo](https://github.com/DRDomm79/Dac-Pricing-model-plateform-and-Ai)**
+>
+> Hybrid frequency–severity engine · benchmarked 8 models on 377k+ records · **AUC 0.81 / R² 0.82** · SHAP explainability · FastAPI + React + PostgreSQL.
 
-Space & Tech – because the future is now
+### 🛠️ Skills
+**Languages:** Python · R · SQL · JavaScript
+**ML / Data:** scikit-learn · LightGBM · XGBoost · GLM (Poisson/Gamma) · SHAP · Pandas · NumPy · statsmodels
+**Engineering:** FastAPI · React · PostgreSQL · Git · Vercel · Render
+**Viz:** Power BI · Tableau · Matplotlib · Seaborn
 
-🛠️ Currently Learning
-Rust – for blazingly fast systems
+### 📫 Connect
+- 💼 LinkedIn: *add your link*
+- 📊 Kaggle: [phorotha](https://www.kaggle.com/phorotha)
+- 📧 poungrotha01555@gmail.com
 
-Blockchain – beyond just cryptocurrencies
-
-Quantum Computing – because why not?
-
-🤝 Looking to Collaborate On
-Innovative startup ideas
-
-Open-source projects (especially in AI & Web3)
-
-Hackathons – let's build something cool in 48 hours!
-
-📫 How to Reach Me
-Twitter/X: @PhoRotha (Let’s debate tech!)
-
-LinkedIn: Pho Rotha (Professional vibes)
-
-Email: poungrotha01555@gmail.com (Old-school but reliable)
-
-😄 Fun Fact
-I once automated my morning coffee routine with a Raspberry Pi – because laziness drives innovation!
-
+<p align="center"><i>Open to Data Scientist / AI-ML roles.</i></p>
